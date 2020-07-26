@@ -27,6 +27,7 @@ alias cb='cargo build'
 alias d+='dotbare add'
 alias d..='dotbare fadd -d'
 alias d-='dotbare commit -m'
+alias dp='dotbare push -u origin master'
 
 # vim alias
 alias vim='nvim'
