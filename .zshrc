@@ -41,7 +41,7 @@ export LC_CTYPE=en_US.UTF-8
 # aliases
 . /home/dm/dots/aliases
 
-#others
+# others
 export PF_INFO="ascii os kernel uptime pkgs memory"
 [ "$DISPLAY" ] || {
     export DISPLAY=:0
