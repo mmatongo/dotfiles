@@ -1,0 +1,10 @@
+#!/bin/sh
+
+xrdb -load ~/.Xresources
+
+source $HOME/.profile
+
+/home/np/.fehbg
+
+exec sowm
+
