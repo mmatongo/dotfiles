@@ -30,7 +30,7 @@ Plug 'andymass/vim-matchup'
 Plug 'godlygeek/tabular'
 Plug 'jiangmiao/auto-pairs'
 Plug 'neovimhaskell/haskell-vim'
-"Plug 'dense-analysis/ale'
+Plug 'dense-analysis/ale'
 
 " tpope
 Plug 'tpope/vim-repeat'
