@@ -28,7 +28,7 @@ alias d+='dotbare add'
 alias d..='dotbare fadd -d'
 alias d-='dotbare commit -m'
 alias dp='dotbare push -u origin master'
-
+alias dl='dotbare flog'
 # vim alias
 alias vim='nvim'
 alias vi='nvim'
